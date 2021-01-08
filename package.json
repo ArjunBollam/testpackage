@@ -1,0 +1,19 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "test package to publish to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArjunBollam/testpackage.git"
+  },
+  "author": "Arjun Bollam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArjunBollam/testpackage/issues"
+  },
+  "homepage": "https://github.com/ArjunBollam/testpackage#readme"
+}
